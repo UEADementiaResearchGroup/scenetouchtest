@@ -1,0 +1,1003 @@
+[
+  {
+    "background": "welcome.png"
+  },
+  {
+    "background": "instructionsnew.png"
+  },
+  {
+    "background": "PractiseTrialsNotice.png"
+  },
+  {
+    "background": "wall.png"
+  },
+  {
+    "background": "p1.png",
+    "objects": [
+      {
+        "img": "4T.2.png",
+        "mask": "4T.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "4T.3.png",
+        "mask": "4T.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "4T.4.png",
+        "mask": "4T.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p2.png",
+    "objects": [
+      {
+        "img": "5.2.png",
+        "mask": "5.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "5.3.png",
+        "mask": "5.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "5.4.png",
+        "mask": "5.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+   {
+    "background": "stool.png"
+  },
+  {
+    "background": "5T.1.png",
+    "objects": [
+      {
+        "img": "5T.2.png",
+        "mask": "5T.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "5T.3.png",
+        "mask": "5T.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "5T.4.png",
+        "mask": "5T.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "10T.1.png",
+    "objects": [
+      {
+        "img": "10T.2.png",
+        "mask": "10T.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "10T.3.png",
+        "mask": "10T.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "10T.4.png",
+        "mask": "10T.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "MemoryIntro.png"
+  },
+  {
+    "background": "3T.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "3Tm.1.png",
+    "objects": [
+      {
+        "img": "3Tm.2.png",
+        "mask": "3Tm.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "3Tm.3.png",
+        "mask": "3Tm.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "3Tm.4.png",
+        "mask": "3Tm.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+    {
+    "background": "4T.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "4Tm.1.png",
+    "objects": [
+      {
+        "img": "4Tm.2.png",
+        "mask": "4Tm.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "4Tm.3.png",
+        "mask": "4Tm.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "4Tm.4.png",
+        "mask": "4Tm.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "ExpBegin.png"
+  },
+    {
+    "background": "stool.png"
+  },
+  {
+    "background": "11.1.png",
+    "objects": [
+      {
+        "img": "11.2.png",
+        "mask": "11.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "11.3.png",
+        "mask": "11.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "11.4.png",
+        "mask": "11.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "15.1.png",
+    "objects": [
+      {
+        "img": "15.2.png",
+        "mask": "15.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "15.3.png",
+        "mask": "15.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "15.4.png",
+        "mask": "15.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "32.1.png",
+    "objects": [
+      {
+        "img": "32.2.png",
+        "mask": "32.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "32.3.png",
+        "mask": "32.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "32.4.png",
+        "mask": "32.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "58.1.png",
+    "objects": [
+      {
+        "img": "58.2.png",
+        "mask": "58.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "58.3.png",
+        "mask": "58.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "58.4.png",
+        "mask": "58.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "25.1.png",
+    "objects": [
+      {
+        "img": "25.2.png",
+        "mask": "25.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "25.3.png",
+        "mask": "25.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "25.4.png",
+        "mask": "25.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "30.1.png",
+    "objects": [
+      {
+        "img": "30.2.png",
+        "mask": "30.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "30.3.png",
+        "mask": "30.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "30.4.png",
+        "mask": "30.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "43.1.png",
+    "objects": [
+      {
+        "img": "43.2.png",
+        "mask": "43.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "43.3.png",
+        "mask": "43.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "43.4.png",
+        "mask": "43.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "21.1.png",
+    "objects": [
+      {
+        "img": "21.2.png",
+        "mask": "21.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "21.3.png",
+        "mask": "21.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "21.4.png",
+        "mask": "21.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "59.1.png",
+    "objects": [
+      {
+        "img": "59.2.png",
+        "mask": "59.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "59.3.png",
+        "mask": "59.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "59.4.png",
+        "mask": "59.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q2.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "stars1new.png"
+  },
+  {
+    "background": "MemoryIntro.png"
+  },
+  {
+    "background": "3e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "3M.1.png",
+    "objects": [
+      {
+        "img": "3M.2.png",
+        "mask": "3M.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "3M.3.png",
+        "mask": "3M.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "3M.4.png",
+        "mask": "3M.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+   {
+    "background": "40e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "40L.1.png",
+    "objects": [
+      {
+        "img": "40L.2.png",
+        "mask": "40L.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "40L.3.png",
+        "mask": "40L.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "40L.4.png",
+        "mask": "40L.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "43e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "43L.1.png",
+    "objects": [
+      {
+        "img": "43L.2.png",
+        "mask": "43L.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "43L.3.png",
+        "mask": "43L.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "43L.4.png",
+        "mask": "43L.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "47e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "47L.1.png",
+    "objects": [
+      {
+        "img": "47L.2.png",
+        "mask": "47L.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "47L.3.png",
+        "mask": "47L.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "47L.4.png",
+        "mask": "47L.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "2e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "2M.1.png",
+    "objects": [
+      {
+        "img": "2M.2.png",
+        "mask": "2M.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "2M.3.png",
+        "mask": "2M.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "2M.4.png",
+        "mask": "2M.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "46e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "46L.1.png",
+    "objects": [
+      {
+        "img": "46L.2.png",
+        "mask": "46L.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "46L.3.png",
+        "mask": "46L.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "46L.4.png",
+        "mask": "46L.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "48e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "48L.1.png",
+    "objects": [
+      {
+        "img": "48L.2.png",
+        "mask": "48L.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "48L.3.png",
+        "mask": "48L.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "48L.4.png",
+        "mask": "48L.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "14e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "14R.1.png",
+    "objects": [
+      {
+        "img": "14R.2.png",
+        "mask": "14R.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "14R.3.png",
+        "mask": "14R.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "14R.4.png",
+        "mask": "14R.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "26e.png",
+    "objects":[
+      {
+      "img": "Tap.png",
+      "no_tap": true
+    }
+    ]
+  },
+  {
+    "background": "gscreen.png",
+    "time":1000
+  },
+  {
+    "background": "26R.1.png",
+    "objects": [
+      {
+        "img": "26R.2.png",
+        "mask": "26R.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "26R.3.png",
+        "mask": "26R.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "26R.4.png",
+        "mask": "26R.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "statuemoved.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "stars2new.png"
+  },
+ {
+    "background": "wall.png"
+  },
+  {
+    "background": "p2.png",
+    "objects": [
+      {
+        "img": "6.2.png",
+        "mask": "6.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "6.3.png",
+        "mask": "6.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "6.4.png",
+        "mask": "6.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p3.png",
+    "objects": [
+      {
+        "img": "28.2.png",
+        "mask": "28.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "28.3.png",
+        "mask": "28.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "28.4.png",
+        "mask": "28.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p2.png",
+    "objects": [
+      {
+        "img": "40.2.png",
+        "mask": "40.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "40.3.png",
+        "mask": "40.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "40.4.png",
+        "mask": "40.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p2.png",
+    "objects": [
+      {
+        "img": "53.2.png",
+        "mask": "53.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "53.3.png",
+        "mask": "53.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "53.4.png",
+        "mask": "53.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p1.png",
+    "objects": [
+      {
+        "img": "1.2.png",
+        "mask": "1.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "1.3.png",
+        "mask": "1.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "1.4.png",
+        "mask": "1.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p2.png",
+    "objects": [
+      {
+        "img": "7.2.png",
+        "mask": "7.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "7.3.png",
+        "mask": "7.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "7.4.png",
+        "mask": "7.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p4.png",
+    "objects": [
+      {
+        "img": "47.2.png",
+        "mask": "47.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "47.3.png",
+        "mask": "47.3_mask.png",
+        "name": "statue2",
+        "extra": "correct"
+      },
+      {
+        "img": "47.4.png",
+        "mask": "47.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p4.png",
+    "objects": [
+      {
+        "img": "48.2.png",
+        "mask": "48.2_mask.png",
+        "name": "statue1",
+        "extra": "correct"
+      },
+      {
+        "img": "48.3.png",
+        "mask": "48.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "48.4.png",
+        "mask": "48.4_mask.png",
+        "name": "statue3"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "p1.png",
+    "objects": [
+      {
+        "img": "18.2.png",
+        "mask": "18.2_mask.png",
+        "name": "statue1"
+      },
+      {
+        "img": "18.3.png",
+        "mask": "18.3_mask.png",
+        "name": "statue2"
+      },
+      {
+        "img": "18.4.png",
+        "mask": "18.4_mask.png",
+        "name": "statue3",
+        "extra": "correct"
+      },
+      {
+        "img": "q1.png",
+        "no_tap": true
+      }
+    ]
+  },
+  {
+    "background": "stars3new.png"
+  }
+]
