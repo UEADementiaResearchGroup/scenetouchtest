@@ -13,7 +13,7 @@ setfenv(1,M)
 function send()
   local options =
   {
-    to = { "h.spiers@ucl.ac.uk" },
+    to = { "h.spiers@ucl.ac.uk" ,"thomas.reed.13@ucl.ac.uk","alice.iball.13@ucl.ac.uk"},
     cc = { "tap32@medschl.cam.ac.uk"},
     subject = "Scene Test - Results " .. os.date(),
     isBodyHtml = true,
