@@ -27,4 +27,8 @@ settings={
         default = "landscapeLeft",
         supported = { "landscapeLeft", "landscapeRight" },
     },
+    excludeFiles = 
+    {
+      all = { "*.bck","img/unused/*" }
+    }
 }
