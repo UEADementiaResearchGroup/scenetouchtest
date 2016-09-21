@@ -1,7 +1,8 @@
 .DS_Store
-*.png
-img
 /data/scenes.json
 /data/scenes2.json
 /data/scenes3.json
 /data/scenes4.json
+/img/Thumbs.db
+/img/unused
+/img/unusedfiles.txt
