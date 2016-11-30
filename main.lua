@@ -1,11 +1,16 @@
 display.setStatusBar(display.HiddenStatusBar)
 
-require "util.csv"
-local path=system.pathForFile("data.csv",system.DocumentsDirectory)
-log=csv.create(path,{"time","x","y","touched","date","extra"})
-local composer=require "composer"
-composer.gotoScene("scenes.setup")
-
+local user=require "user"
+user.setup(function() 
+	require "util.csv"
+	local emailcsv=require "util.emailcsv"
+	local file=user.getID().."_data.csv"
+	emailcsv.setDataFile(file)
+	local path=system.pathForFile(file,system.DocumentsDirectory)
+	log=csv.create(path,{"time","x","y","touched","date","extra"})
+	local composer=require "composer"
+	composer.gotoScene("scenes.setup")
+end)
 -- local lfs = require "lfs"
 
 -- local imgPath = system.pathForFile("img", system.ResourceDirectory)
