@@ -5,6 +5,10 @@ settings={
             UILaunchStoryboardName = "LaunchScreen",
         },
         ITSAppUsesNonExemptEncryption=false,
+        UIFileSharingEnabled=true,
+        NSCalendarsUsageDescription = "Not used",
+        NSPhotoLibraryUsageDescription = "Not used",
+        NSCameraUsageDescription = "Not used",
     },
     orientation =
     {
